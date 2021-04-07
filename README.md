@@ -1,0 +1,1 @@
+# Leetcode-Problem-1780__Check-if-Number-is-a-Sum-of-Powers-of-Three__Python3
