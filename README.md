@@ -32,7 +32,7 @@ Example 3:
 
 ## Solution strategy:
 
-    -Get the ternary representation of the given number _n_
-    -Check if there is _2_ in the ternary representation
+    -Get the ternary representation of the given number n
+    -Check if there is 2 in the ternary representation
           -if yes, return true
           -else, return false
